@@ -1,0 +1,6 @@
+com/sbha/infrastructure/entity/Book$BookBuilder.class
+com/sbha/infrastructure/mapper/BookMapperImpl.class
+com/sbha/infrastructure/repository/BookRepository.class
+com/sbha/infrastructure/entity/Book.class
+com/sbha/infrastructure/mapper/BookMapper.class
+com/sbha/infrastructure/adapter/BookJpaAdapter.class

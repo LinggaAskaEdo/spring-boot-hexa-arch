@@ -1,0 +1,4 @@
+/Users/lingga.putra/Documents/Git/spring-boot-hexa-arch/infrastructure/src/main/java/com/sbha/infrastructure/mapper/BookMapper.java
+/Users/lingga.putra/Documents/Git/spring-boot-hexa-arch/infrastructure/src/main/java/com/sbha/infrastructure/adapter/BookJpaAdapter.java
+/Users/lingga.putra/Documents/Git/spring-boot-hexa-arch/infrastructure/src/main/java/com/sbha/infrastructure/repository/BookRepository.java
+/Users/lingga.putra/Documents/Git/spring-boot-hexa-arch/infrastructure/src/main/java/com/sbha/infrastructure/entity/Book.java

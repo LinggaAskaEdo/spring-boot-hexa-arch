@@ -1,0 +1,5 @@
+com/sbha/domain/data/BookDto$BookDtoBuilder.class
+com/sbha/domain/service/BookServiceImpl.class
+com/sbha/domain/port/spi/BookPersistencePort.class
+com/sbha/domain/data/BookDto.class
+com/sbha/domain/port/api/BookServicePort.class

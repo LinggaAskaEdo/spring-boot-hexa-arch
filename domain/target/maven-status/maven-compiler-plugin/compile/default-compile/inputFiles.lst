@@ -1,0 +1,4 @@
+/Users/lingga.putra/Documents/Git/spring-boot-hexa-arch/domain/src/main/java/com/sbha/domain/service/BookServiceImpl.java
+/Users/lingga.putra/Documents/Git/spring-boot-hexa-arch/domain/src/main/java/com/sbha/domain/port/api/BookServicePort.java
+/Users/lingga.putra/Documents/Git/spring-boot-hexa-arch/domain/src/main/java/com/sbha/domain/port/spi/BookPersistencePort.java
+/Users/lingga.putra/Documents/Git/spring-boot-hexa-arch/domain/src/main/java/com/sbha/domain/data/BookDto.java
