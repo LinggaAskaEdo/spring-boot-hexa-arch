@@ -11,7 +11,8 @@ import org.springframework.context.annotation.Configuration;
 public class BookConfig
 {
     @Bean
-    public BookPersistencePort bookPersistence(){
+    public BookPersistencePort bookPersistence()
+    {
         return new BookJpaAdapter();
     }
 
